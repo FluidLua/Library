@@ -4,5 +4,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FluidLua/Library/main
 ```
 ## Win-95 Library
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FluidLua/Library/refs/heads/main/q2-95.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FluidLua/Library/main/q2-95.lua"))()
 ```
